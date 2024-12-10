@@ -1,0 +1,13 @@
+data/**/*.csv
+skeleton_animation.mp4
+src/wandb/*
+src/__pycache__/*
+analysis_results/test_confusion_matrix.png
+best_model.pth
+src/__pycache__/*
+src/train.py
+/wandb/
+cached_max_length.npy
+/processed_data/
+best_model_mobilenet.pth
+best_model_vgg.pth
