@@ -1,0 +1,12 @@
+data/**/*.csv
+skeleton_animation.mp4
+src/wandb/*
+src/__pycache__/*
+best_model_mobilenet.pth
+best_model_vgg.pth
+best_model_resnext.pth
+best_model.pth
+processed_data/*
+wandb/*
+/cached_max_length.npy/
+/test_results_mobilenet_20241210_152503/
